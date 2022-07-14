@@ -26,4 +26,4 @@ The following metrics were heavily impacted for Thomas High School without the 9
 ### District summary with Thomas High 9th grade results excluded
 ![district_summary_df](Resources/district_summary_df.png)
 
-The dataframes above show that there were no changes to the number of schools, total students and the budget. However, there was a slight drop in the pecentage of students passing math, reading and overall passing. Considering that the number of Thomas High students is a small portion of the total district student population, removing their 9th grade scores did not cause a significant change on the district results. 
+The dataframes above show that there were no changes to the number of schools, total students and the budget. However, there was a slight drop in the pecentage of students passing math, reading and overall passing. Considering that there are 461 9th grade Thomas High students as compared to the total district student population of 31,970, removing their scores did not cause a significant change on the district results. 
